@@ -48,7 +48,7 @@
   ],
   "web_accessible_resources": [
     {
-      "resources": ["translations/pt-br.json", "translations/es-es.json"],
+      "resources": ["translations/pt-br.json", "translations/es-es.json", "translations/it-it.json"],
       "matches": [
         "*://*/*"
       ]
